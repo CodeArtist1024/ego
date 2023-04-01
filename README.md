@@ -26,5 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - egoVue.sql 是项目所需数据所有的文件   
 - project.sql 和userinfo.sql 是胡数据库所需的部分文件，需要写部分逻辑代码的，参考这两个即可  
 
-
+> 取之于人 用之于人
 
